@@ -27,7 +27,7 @@ To ensure a reproducible environment, a Conda environment file (`environment.yam
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone git@github.com:dikang13/head_detector_2d.git
+   git clone git@github.com:dikang13/head_detector_unet2d.git
    cd head_detector_unet2d
    ```
 
